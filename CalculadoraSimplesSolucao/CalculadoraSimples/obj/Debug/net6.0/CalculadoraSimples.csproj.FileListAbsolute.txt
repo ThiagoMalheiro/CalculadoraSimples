@@ -1,0 +1,30 @@
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.exe
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.deps.json
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\ref\CalculadoraSimples.dll
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\ref\CalculadoraSimples.dll
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Dell\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.exe
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.deps.json
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\refint\CalculadoraSimples.dll
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Thiago Nicolas\OneDrive\Desktop\Calculadora\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\ref\CalculadoraSimples.dll
